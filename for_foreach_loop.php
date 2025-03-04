@@ -10,3 +10,4 @@ echo "<br>Using foreach loop...<br>";
 foreach ($sub as $subject) {
     echo "$subject <br>";
 }
+?>
