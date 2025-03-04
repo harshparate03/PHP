@@ -17,3 +17,4 @@ switch ($day) {
     default:
         echo 'working day';
 }
+?>
